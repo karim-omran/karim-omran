@@ -11,7 +11,7 @@ Opensource technologies from Information Technology Institute(ITI).
 - **Programming Languages:** C, C++, Java, Elixir.
 
 - **Web Development:**
-    - **FrontEnd:** AngularJS, Angular4 TypeScript, HTML5, CSS & JQuery, AJAX.
+    - **FrontEnd:** Angular, HTML5, CSS & JQuery, AJAX.
     - **Frameworks:** JSF, JSP, Django, Odoo.
     - **Backend:** Java EE Stack ( EJB, JPA, RESTful ), Spring (Boot, MVC, Data, WebFlow, Security, RESTful), Pheonix/Elixir.
     - **DBMS:**
